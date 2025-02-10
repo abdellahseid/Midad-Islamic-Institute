@@ -11,5 +11,6 @@ This is a responsive website for **Midad Islamic Institute**, built using **HTML
 - Lightweight and optimized for performance  
 
 🔗 Feel free to contribute and improve the project! 
+
 🚀 Live Demo: (https://midad-islamic-institute.netlify.app/)
 
