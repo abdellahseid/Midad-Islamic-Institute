@@ -1,0 +1,273 @@
+
+/*** 
+
+====================================================================
+	Main Footer
+====================================================================
+
+***/
+
+.main-footer{
+	position:relative;
+	margin-top: -85px;
+}
+
+.main-footer.style-two{
+	margin-top: 0px;
+}
+
+.main-footer.style-two .inner-container{
+	padding-top: var(--padding-top-90);
+}
+
+.main-footer .inner-container{
+	position:relative;
+	padding: 170px 0px 50px;
+}
+
+.footer-logo{
+	position: relative;
+	margin-bottom: var(--margin-bottom-20);
+}
+
+.footer-text{
+	position: relative;
+	line-height: 28px;
+	color: var(--white-color);
+	font-size: var(--font-16);
+}
+
+.footer_bg-image{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	background-size: cover;
+}
+
+.footer_socials{
+	position: relative;
+	margin-top: var(--margin-top-40);
+}
+
+.footer_socials a{
+	position: relative;
+	width: 52px;
+	height: 52px;
+	line-height: 52px;
+	text-align: center;
+	border-radius: 50px;
+	display: inline-block;
+	font-size: var(--font-16);
+	color: var(--white-color);
+	font-family: 'Font Awesome 5 Brands';
+	background-color: var(--color-thirty);
+}
+
+.footer_socials a:hover{
+	color: var(--color-six);
+	background-color: var(--color-seven);
+}
+
+.main-footer .widgets-section{
+	position:relative;
+}
+
+.footer-title{
+	font-weight: 600;
+	color: var(--white-color);
+	text-transform: capitalize;
+	margin-top: var(--margin-top-10);
+	margin-bottom: var(--margin-bottom-20);
+}
+
+.footer-column{
+	position: relative;
+	margin-bottom: var(--margin-bottom-30);
+}
+
+.footer_list{
+	position: relative;
+	display: inline-block;
+	padding-top: var(--padding-top-20);
+	border-top: 1px solid var(--color-twentynine);
+}
+
+.footer_list li{
+	position: relative;
+	line-height: 28px;
+	color: var(--white-color);
+	font-size: var(--font-16);
+	margin-bottom: var(--margin-bottom-10);
+}
+
+.footer_list li:last-child{
+	margin-bottom: var(--margin-zero);
+}
+
+/* Footer List */
+
+.footer-list{
+	position: relative;
+}
+
+.footer-list li{
+	position: relative;
+	margin-bottom: var(--margin-bottom-5);
+}
+
+.footer-list li:last-child{
+	margin-bottom: var(--margin-zero);
+}
+
+.footer-list li a{
+	position: relative;
+	
+	line-height: 28px;
+	font-weight: 400;
+	color: var(--white-color);
+	font-size: var(--font-16);
+
+	transition:all 300ms ease;
+	-moz-transition:all 300ms ease;
+	-webkit-transition:all 300ms ease;
+	-ms-transition:all 300ms ease;
+	-o-transition:all 300ms ease;
+}
+
+.footer-list li a::before{
+	position: absolute;
+	content: '\f058';
+	left: 0px;
+	top: -3px;
+	opacity: 0;
+	font-weight: 800;
+	color: var(--main-color);
+	font-family: 'Font Awesome 5 Free';
+	transition:all 300ms ease;
+	-moz-transition:all 300ms ease;
+	-webkit-transition:all 300ms ease;
+	-ms-transition:all 300ms ease;
+	-o-transition:all 300ms ease;
+}
+
+.footer-list li a:hover::before{
+	opacity: 1;
+}
+
+.footer-list li a:hover{
+	color: var(--main-color);
+	padding-left: var(--padding-left-25);
+}
+
+/* Newsletter Box */
+
+.newsletter-box {
+    position: relative;
+	border-radius: 10px;
+	padding: 30px 22px;
+	margin-top: var(--margin-top-25);
+	background-color: var(--color-thirtyone);
+}
+
+.newsletter-box .form-group {
+    position: relative;
+    margin: 0px;
+    width: 100%;
+    max-width: 100%;
+}
+
+.newsletter-box .form-group input[type="text"],
+.newsletter-box .form-group input[type="email"] {
+    position: relative;
+    line-height: 43px;
+    display: block;
+    height: 60px;
+    width: 100%;
+	border-radius: 0px;
+    box-shadow: inherit;
+    font-size: var(--font-13);
+    transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    padding: 10px 0px;
+    background: none;
+	color: rgba(255,255,255,0.40);
+	text-transform: capitalize;
+	border-bottom:1px solid var(--color-twentynine);
+}
+
+.newsletter-box .form-group button{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+	width: 40px;
+	height: 40px;
+	bottom: 5px;
+    font-weight: 400;
+    line-height: 40px;
+	text-align: center;
+    display: inline-block;
+    font-size: var(--font-16);
+    color: var(--color-six);
+    text-transform: capitalize;
+	border-radius: 50px;
+	font-weight: 800;
+	font-family: "Font Awesome 5 Free";
+    background-color: var(--color-seven);
+}
+
+.newsletter-box .form-group button:hover{
+	color: var(--color-six);
+	background-color: var(--white-color);
+}
+
+/* Footer Bottom */
+
+.footer-bottom{
+	position: relative;
+	padding: 40px 0px;
+	border-top:1px solid rgba(255,255,255,0.10);
+}
+
+.copyright{
+	position: relative;
+	opacity: 0.70;
+	font-weight: 400;
+	font-size: var(--font-14);
+	color: var(--white-color);
+}
+
+.footer-nav{
+	position: relative;
+}
+
+.footer-nav li{
+	position: relative;
+	display: inline-block;
+	margin-left: var(--margin-left-20);
+}
+
+.footer-nav li a{
+	position: relative;
+	opacity: 0.70;
+	font-weight: 400;
+	font-size: var(--font-14);
+	color: var(--white-color);
+}
+
+.footer-nav li a:hover{
+	color: var(--main-color);
+}
+
+.footer_bottom-bg{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	background-size: cover;
+}

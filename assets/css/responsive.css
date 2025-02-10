@@ -1,0 +1,1199 @@
+/* Al-Quran Online Business HTML-5 Template */
+
+@media only screen and (max-width: 2770px){
+	
+	
+	
+}
+
+@media only screen and (max-width: 2000px){
+
+	
+
+}
+
+@media only screen and (max-width: 1750px){
+
+	
+
+}
+
+
+@media only screen and (max-width: 1500px){
+
+	.course-block_two-content{
+		padding: 40px 25px 30px;
+	}
+
+	.course-block_two-author{
+		font-size: var(--font-12);
+	}
+
+	.course-block_two-price{
+		padding: 8px 10px;
+	}
+
+	.news-block_two-author,
+	.course-block_two-author strong{
+		font-size: var(--font-14);
+	}
+
+	.news-block_two-more{
+		padding: 11px 14px;
+		font-size: var(--font-13);
+	}
+
+}
+
+@media only screen and (max-width: 1400px){
+	
+	.course-block_one-content{
+		padding: 30px 25px;
+	}
+
+	.course-block_one-price{
+		padding: 10px 10px;
+	}
+
+	.course-block_one-study{
+		padding: 10px 16px;
+	}
+
+	.slider-three_images-outer{
+		margin-right: 0px;
+	}
+
+	.slider-three_color-layer{
+		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 1340px){
+
+	.slider-three_elements,
+	.header-top .bismillah{
+		display: none;
+	}
+
+	.main-header .main-menu .navigation > li{
+		margin-right: var(--margin-right-25);
+	}
+
+}
+
+@media only screen and (max-width: 1240px){
+	
+	.welcome-one_image{
+		margin-right: var(--margin-zero);
+	}
+	
+	.welcome-one_image-outer{
+		padding-left: var(--padding-zero);
+	}
+
+	.welcome-one_content-outer{
+		padding-right: var(--padding-zero);
+	}
+
+	.students-one .inner-container{
+		padding: 40px 40px 0px 40px;
+	}
+
+	.testimonial-one_image{
+		margin: var(--margin-zero);
+	}
+
+	.testimonial-one_carousel-outer{
+		padding-left: var(--padding-zero);
+	}
+
+	.testimonial-block_one-text{
+		padding-right: var(--padding-zero);
+	}
+
+	.cta-two .inner-container{
+		padding: 27px 30px 23px;
+	}
+
+	.welcome-one_ameen{
+		right: 30px;
+	}
+
+	.welcome-three_image::before,
+	.welcome-three_image::after,
+	.main-header.header-style-two .header_button-box{
+		display: none;
+	}
+
+	.main-header.header-style-two .user-box{
+		margin-right: var(--margin-zero);
+	}
+
+	.welcome-three_image-two{
+		left: 0px;
+	}
+
+	.slider-three{
+		background-color: #fffef9;
+	}
+
+	.page-title{
+		padding: 120px 0px 120px;
+	}
+
+}
+
+@media only screen and (max-width: 1140px){
+	
+	.header_button-box{
+		display: none;
+	}
+
+	.header-top_list-two li{
+		margin-right: var(--margin-right-10);
+	}
+
+	.header-top_list li{
+		margin-right: var(--margin-right-10);
+	}
+
+	.main-header .user-box{
+		margin-right: var(--margin-zero);
+	}
+
+	.featured-one .inner-container{
+		padding-left: var(--margin-left-30);
+		padding-right: var(--margin-right-30);
+	}
+
+	.cta-two .inner-container,
+	.cta-one .inner-container{
+		text-align: center;
+		justify-content: center !important;
+	}
+
+	.cta-one_button{
+		margin-top: var(--margin-top-30);
+	}
+
+	.testimonial-block_one-text{
+		line-height: 32px;
+		font-size: var(--font-18);
+		margin-top: var(--margin-top-20);
+	}
+
+	.price-block_one-list{
+		margin-left: var(--margin-left-20);
+	}
+
+	.cta-two_heading{
+		margin: 20px 0px;
+	}
+
+	.cta-two_heading br{
+		display: none;
+	}
+
+	.cta-two .inner-container{
+		padding: 40px 25px 40px;
+	}
+
+	.header-top_list-two{
+		padding: 15px 0px;
+	}
+
+	.featured-one{
+		margin-top: 110px;
+	}
+
+	.slider-one .swiper-slide{
+		padding: 150px 0px 150px;
+	}
+
+	h2{
+		line-height: 50px;
+		font-size: var(--font-40);
+	}
+
+	h3{
+		line-height: 46px;
+		font-size: var(--font-36);
+	}
+
+	.welcome-one_years{
+		font-size: var(--font-18);
+	}
+
+	.service-block_one-upper{
+		padding: 25px 25px;
+	}
+
+	.students-one_content-outer{
+		padding: 55px 35px 0px;
+	}
+
+	.students-one_content-outer::after{
+		display: none;
+	}
+
+	.testimonial-block_one-author,
+	.testimonial-block_one-heading{
+		margin-top: var(--margin-top-25);
+	}
+
+	.testimonial-one_ameen{
+		right: 0px;
+	}
+
+	.news-block_one-content{
+		padding: 25px 20px 30px;
+	}
+
+	.news-block_one-more{
+		padding: 11px 15px;
+	}
+
+	.news-block_one-author{
+		font-size: var(--font-14);
+	}
+
+	.welcome-two_content-outer{
+		padding-left: 0px;
+	}
+
+	.welcome-two_image-outer{
+		padding-right: 0px;
+	}
+
+	.welcome-two_image::before,
+	.welcome-two_image::after{
+		display: none;
+	}
+
+	.welcome-two_years{
+		font-size: var(--font-18);
+	}
+
+	.welcome-two_image-two{
+		right: 20px;
+	}
+
+	.main-header .main-menu .navigation > li{
+		margin-right: var(--margin-right-25);
+	}
+
+	.header-style-two{
+		position: relative;
+	}
+
+	.header-style-two .header-top{
+		background-color: rgba(var(--color-thirtytwo-rgb), 1);
+	}
+
+	.main-header.header-style-two .header-upper .outer-box,
+	.main-header.header-style-two .header-upper .logo-box{
+		border-radius: 0px;
+	}
+
+	.slider-two .swiper-slide{
+		padding: 150px 0px 150px;
+	}
+
+	.service-one{
+		padding-bottom: var(--padding-bottom-80);
+	}
+
+	.testimonial-block_two-inner{
+		padding: 30px 30px;
+	}
+
+	.welcome-three_image-outer{
+		padding-right: 0px;
+	}
+
+	.welcome-three_years{
+		font-size: var(--font-20);
+	}
+
+	.prayer-time_content{
+		padding-left: var(--padding-left-50);
+		padding-right: var(--padding-right-50);
+	}
+
+	.prayer-time_timing .bismillah{
+		display: none;
+	}
+
+	.prayer-time_timing .d-flex{
+		justify-content: center !important;
+	}
+
+	.scholar-detail_content-outer{
+		padding-left: var(--padding-zero);
+	}
+
+	.scholar-detail_image-outer{
+		padding-right: var(--padding-zero);
+	}
+
+	.event-block_one-content{
+		padding: 0px 20px 22px;
+	}
+
+	.event-block_one-price span{
+		padding: 12px 12px;
+		font-size: var(--font-13);
+	}
+
+	.event-block_one-price{
+		font-size: var(--font-13);
+	}
+
+	.service-detail .content{
+		padding: 60px 15px 60px;
+		background-image: inherit !important;
+		border: 10px solid var(--color-two);
+		background-color: var(--main-color);
+	}
+
+	.service-detail_image img{
+		max-width: 100%;
+	}
+
+}
+
+@media only screen and (min-width: 768px){
+	
+	
+	
+}
+
+@media only screen and (max-width: 991px){
+	
+	
+
+	.welcome-one_image::before,
+	.welcome-one_image::after{
+		display: none;
+	}
+
+	.testimonial-one_ameen{
+		top: -10px;
+	}
+
+	.cta-one .inner-container{
+		padding: 40px 30px;
+	}
+
+	.welcome-three_dots,
+	.testimonial-one_image,
+	.cta-one_heading br{
+		display: none;
+	}
+
+	.testimonial-one_image-column{
+		margin-bottom: var(--margin-zero);
+	}
+
+	.testimonial-one{
+		padding-top: var(--padding-top-100);
+		background-position: center center;
+		padding-bottom: var(--padding-bottom-60);
+	}
+
+	.gallery-one_button{
+		margin-top: var(--margin-top-25);
+	}
+
+	.welcome-three_content-column{
+		order: 1;
+		margin-bottom: var(--margin-bottom-60);
+	}
+
+	.welcome-three_image-column{
+		order: 2;
+	}
+
+	.class-block_one-content{
+		padding: 0px 20px 30px;
+	}
+
+}
+
+
+@media only screen and (max-width: 976px){
+	
+	
+	
+}
+	
+@media only screen and (max-width: 1023px){
+	
+	.main-header .main-box .logo-box {
+		position:relative;
+		left:0px;
+		top:0px;
+		right:0px;
+		bottom:0px;
+		margin:0px;
+		text-align:left;
+	}
+	
+	.main-header .outer-box{
+		position: static;
+		display:block;
+	}
+
+	.main-header.header-style-two .mobile-nav-toggler{
+		color: var(--white-color);
+	}
+
+	.slider-two_pagination{
+		opacity: 0;
+		visibility: hidden;
+	}
+
+	.main-header{
+		position:relative;
+	}
+	
+	.main-header .nav-outer{
+		width:100%;
+		text-align:center;
+	}
+	
+	.main-header .mobile-nav-toggler{
+		display:block;
+	}
+	
+	.main-header .sticky-header .mobile-nav-toggler{
+		display:block;
+	}
+	
+	.main-header .nav-outer,
+	.main-header .sticky-header .main-menu,
+	.header-style-one .header-upper .inner-container::before{
+		display:none;
+	}
+	
+	.main-header #navbarSupportedContent{
+		display:block;
+	}
+	
+	.main-header .mCSB_inside > .mCSB_container{
+		margin-right:0px;
+	}
+
+	.main-header{
+		position: relative;
+	}
+
+	.welcome-two_content-column{
+		order: 1;
+		margin-bottom: var(--margin-bottom-60);
+	}
+
+	.welcome-two_image-column{
+		order: 2;
+	}
+
+	.main-header .header-upper .logo-box{
+		padding: 25px 0px;
+	}
+
+	.header-style-three{
+		min-height: 92px;
+	}
+
+}
+
+@media only screen and (max-width: 991px){
+
+	.welcome-three_content-outer{
+		padding-left: 0px;
+	}
+
+}
+
+@media only screen and (max-width: 890px){
+
+	
+
+}
+
+@media only screen and (max-width: 767px){
+	
+	.main-header .header-upper .logo-outer {
+		position:relative;
+		width:100%;
+	}
+
+	.main-header .sticky-header .outer-box{
+		display:block;
+		right: 0px;
+		left: auto;
+		top:0px;
+	}
+
+	.main-header .main-menu{
+		width:100%;
+		display:none;
+	}
+	
+	.main-header .main-menu .navbar-collapse > .navigation li.dropdown:after,
+	.main-header .main-menu .navigation > li > ul:before{
+		display:none !important;	
+	}
+	
+	.main-header .main-box .logo-box{
+		float:none;
+		text-align:center;
+		padding-bottom:10px;
+	}
+
+	.main-header .header-lower .outer-box{
+		position:relative;
+		z-index:12;
+		display:block;
+	}
+	
+	.main-header .main-menu .navbar-header .navbar-toggler{
+		display: inline-block;
+		z-index: 12;
+		width: 50px;
+		height: 40px;
+		float: none;
+		padding: 0px;
+		text-align: center;
+		border-radius: 0px;
+		background: none;
+		border: 1px solid #ffffff;
+	}
+	
+	.main-header .main-menu .navbar-header .navbar-toggler .icon-bar{
+		position: relative;
+		background: #ffffff;
+		height: 2px;
+		width: 26px;
+		display: block;
+		margin:0 auto;
+		margin:5px 11px;
+	}
+	
+	.main-header .nav-outer{
+		width:100%;
+	}
+	
+	.main-header .nav-outer .mobile-nav-toggler{
+		display: block;
+	}
+	
+	.main-header #navbarSupportedContent{
+		display:block;
+	}
+	
+	.main-header .mCSB_inside > .mCSB_container{
+		margin-right:0px;
+	}
+	
+	.main-header .outer-box{
+		margin-left:0px;
+		padding:0px 0px;
+	}
+	
+	.main-header .sticky-header .mobile-nav-toggler{
+		display:block;
+		padding:15px 0px;
+	}
+
+	h1{
+		line-height: 60px;
+		font-size: var(--font-50);
+	}
+
+	h2 {
+		line-height: 42px;
+		font-size: var(--font-32);
+	}
+
+	.slider-one_text{
+		line-height: 28px;
+		font-size: var(--font-18);
+	}
+
+	.feature-block_one-inner{
+		text-align: center;
+		padding: var(--padding-zero);
+	}
+
+	.feature-block_one-icon{
+		position: relative;
+		margin: 0 auto;
+		margin-bottom: var(--margin-bottom-20);
+	}
+
+	.service-one .sec-title{
+		margin-bottom: var(--margin-bottom-35);
+	}
+
+	.students-one .inner-container {
+		padding: 30px 20px 0px 20px;
+	}
+
+	.cta-one_heading{
+		line-height: 38px;
+		font-size: var(--font-28);
+	}
+
+	.institute-block_one-heading a br{
+		display: none;
+	}
+
+	.cta-two_heading{
+		font-size: var(--font-28);
+	}
+
+	.slider-three_images-column .column:first-child .image:last-child{
+		margin-left: 0px;
+	}
+
+	.service-one.style-three .sec-title{
+		margin-bottom: var(--margin-bottom-70);
+	}
+
+	.service-block_one.style-three{
+		margin-bottom: var(--margin-bottom-70);
+	}
+
+	.faq-one h3 br{
+		display: none;
+	}
+
+	.faq-one h3{
+		line-height: 38px;
+		font-size: var(--font-28);
+	}
+
+	.prayer-time_timing{
+		margin: 30px 0px 40px;
+	}
+
+	.prayer-time_content{
+		padding: 30px 30px 30px;
+	}
+
+	.scholar-detail_content-column{
+		order: 1;
+		margin-bottom: var(--margin-bottom-30);
+	}
+
+	.scholar-detail_image-column{
+		order: 2;
+	}
+
+	.event-detail_price{
+		width: 100%;
+	}
+
+	.event-detail_price span{
+		position: absolute;
+		right: 10px;
+	}
+
+	.ticket-btn{
+		margin-top: var(--margin-top-20);
+		margin-left: var(--margin-zero);
+	}
+
+	.blog-detail_heading{
+		line-height: 38px;
+		font-size: var(--font-28);
+	}
+
+	.course-detail_price{
+		margin-top: var(--margin-top-25);
+	}
+
+	.contact-info_outer::before{
+		display: none;
+	}
+
+	.welcome-three_content p{
+		padding-right: 0px;
+	}
+
+}
+
+@media only screen and (max-width: 599px){
+
+	h1 {
+		line-height: 50px;
+		font-size: var(--font-40);
+	}
+
+	.welcome-one_pattern,
+	.welcome-three_years span,
+	.slider-three_images-column,
+	.welcome-one_pattern-two,
+	.header-top{
+		display: none;
+	}
+
+	.slider-one .swiper-slide {
+		padding: 120px 0px 120px;
+	}
+
+	.welcome-one_learn{
+		font-size: var(--font-16);
+	}
+
+	.prayer-time_content{
+		line-height: 26px;
+		font-size: var(--font-16);
+	}
+
+	.welcome-one{
+		padding-top: var(--padding-top-90);
+	}
+
+	.welcome-one_ameen{
+		top: 20px;
+		right: 20px;
+	}
+
+	.passout_inner,
+	.top-rated_inner{
+		min-height: auto;
+		padding-left: var(--padding-zero);
+	}
+
+	.passout-number,
+	.top-rated-icon{
+		position: relative;
+		top: 0px;
+		margin-bottom: var(--margin-bottom-20);
+	}
+
+	.cta-one_heading {
+		line-height: 34px;
+		font-size: var(--font-24);
+	}
+
+	.gallery-one_button{
+		position: relative;
+		margin-top: var(--margin-top-25);
+	}
+
+	.sec-title_heading br{
+		display: none;
+	}
+
+	.cta-two_heading {
+		line-height: 32px;
+		font-size: var(--font-22);
+	}
+
+	.footer-nav{
+		margin-top: var(--margin-top-5);
+	}
+
+	.footer-nav li{
+		margin-left: var(--margin-zero);
+		margin-right: var(--margin-right-15);
+	}
+
+	.main-header{
+		min-height: 92px;
+	}
+
+	.students-one_text{
+		margin-top: var(--margin-top-15);
+	}
+
+	.students-one_content-outer {
+		padding: 30px 20px 0px;
+	}
+
+	.students-one_text{
+		padding-right: var(--padding-zero);
+	}
+
+	.event-detail_heading br{
+		display: none;
+	}
+
+	.service-block_two-text{
+		font-size: var(--font-16);
+	}
+
+	.service-detail_text br{
+		display: none;
+	}
+
+	.service-detail_text{
+		font-size: var(--font-16);
+	}
+
+	.news-block_three-heading{
+		line-height: 40px;
+		font-size: var(--font-30);
+	}
+
+	.news-block_three-content{
+		padding: 25px 25px;
+	}
+
+	.blog-detail_heading br{
+		display: none;
+	}
+
+	.blog-detail_content{
+		padding: 25px 25px 25px;
+	}
+
+	.error-one h1{
+		font-size: var(--font-120);
+	}
+
+	.error-one h1 span::before{
+		display: none;
+	}
+
+	.error-one h3{
+		line-height: 36px;
+		font-size: var(--font-26);
+	}
+
+	.course-list li{
+		font-size: var(--font-16);
+	}
+
+	.course-detail_list li:first-child{
+		padding-left: var(--padding-zero);
+	}
+
+	.course-detail_list li:last-child{
+		padding-right: var(--padding-zero);
+	}
+
+	.course-detail-tabs .tab-btns .tab-btn{
+		padding: 8px 15px;
+		font-size: var(--font-14);
+	}
+
+	.accordion-box .block .acc-btn{
+		font-size: var(--font-16);
+	}
+
+	.accordion-box .questions,
+	.accordion-box .block .preview{
+		display: none;
+	}
+
+	.course-detail_list li{
+		padding: 0px 20px;
+	}
+
+	.register-one h3 br{
+		display: none;
+	}
+
+	.course-author_box-inner{
+		padding: var(--padding-zero);
+	}
+
+	.course-author_box-image{
+		position: relative;
+		margin-bottom: var(--margin-bottom-25);
+	}
+
+	.course-detail-tabs .tab-btns .tab-btn{
+		margin-bottom: var(--margin-bottom-10);
+	}
+
+	.course-detail-tabs .tab-btns{
+		padding-bottom: 0px;
+	}
+
+	.accordion-box_two.style-two .block .acc-btn{
+		line-height: 26px;
+		font-size: var(--font-16);
+	}
+
+	.course-author:last-child{
+		margin-bottom: var(--margin-zero);
+	}
+
+	.course-comment_form{
+		margin-top: var(--margin-zero);
+	}
+
+	.course-author_inner{
+		padding-top: var(--padding-zero);
+		padding-left: var(--padding-zero);
+		padding-bottom: var(--padding-bottom-20);
+	}
+
+	.course-author_image{
+		position: relative;
+		margin-bottom: var(--margin-bottom-25);
+	}
+
+}
+
+@media only screen and (max-width: 479px) {
+	
+	h1 {
+		line-height: 40px;
+		font-size: var(--font-30);
+	}
+
+	h2 {
+		line-height: 38px;
+		font-size: var(--font-28);
+	}
+
+	.register-one h3,
+	.service-detail_heading,
+	.event-detail_heading,
+	.scholar-detail_title,
+	.faq-one h3,
+	h3 {
+		line-height: 38px;
+		font-size: var(--font-28);
+	}
+
+	.welcome-one .sec-title_heading{
+		margin-top: var(--margin-top-15);
+	}
+
+	.slider-one_text {
+		line-height: 26px;
+		font-size: var(--font-16);
+	}
+
+	.welcome-one_years span,
+	.welcome-one .sec-title_title span,
+	.main-header .user-box{
+		display: none;
+	}	
+
+	.main-header .search-box-btn{
+		margin-right: var(--margin-zero);
+	}
+
+	.welcome-one_content{
+		padding-left: var(--padding-zero);
+	}
+
+	.welcome-one_content-image{
+		position: relative;
+		margin-bottom: var(--margin-bottom-20);
+	}
+
+	.service-block_one-icon{
+		top: 30px;
+		right: 30px;
+	}
+
+	.service-block_one-text{
+		font-size: var(--font-16);
+	}
+
+	.students-one_counter-inner{
+		min-height: auto;
+		padding-left: var(--padding-zero);
+	}
+
+	.students-one_counter-icon{
+		position: relative;
+		display: inline-block;
+		margin-bottom: var(--margin-bottom-20);
+	}
+
+	.students-one_counter-count{
+		font-size: var(--font-40);
+	}
+
+	.students-one_counter-text{
+		font-size: var(--font-18);
+	}
+
+	.news-block_one-more {
+		padding: 11px 12px;
+		font-size: var(--font-12);
+	}
+
+	.welcome-two_years span,
+	.welcome-two_image-two,
+	.welcome-three_image-two,
+	.main-header.header-style-two .search-box-btn{
+		display: none;
+	}
+
+	.main-header.header-style-two .mobile-nav-toggler{
+		margin-left: var(--margin-zero);
+	}
+
+	.main-header.header-style-two .header-upper .logo-box{
+		padding: 34.5px 15px;
+	}
+
+	.main-header.header-style-two .header-upper .outer-box{
+		padding: 33px 20px;
+	}
+
+	.welcome-two_icon{
+		position: relative;
+		top: 0px;
+		margin-bottom: var(--margin-bottom-35);
+	}
+
+	.welcome-two_middle-lower{
+		padding-left: var(--padding-zero);
+	}
+
+	.welcome-two_thumb{
+		position: relative;
+		width: 100%;
+		margin-bottom: var(--margin-bottom-30);
+	}
+
+	.course-block_two-content {
+		padding: 40px 15px 30px;
+	}
+
+	.testimonial-block_two-heading{
+		font-size: var(--font-20);
+		margin-top: var(--margin-top-20);
+	}
+
+	.testimonial-block_two-text{
+		line-height: 28px;
+		font-size: var(--font-16);
+		margin-top: var(--margin-top-15);
+		padding-right: var(--padding-zero);
+	}
+
+	.testimonial-block_two-author{
+		font-size: var(--font-16);
+		margin-top: var(--margin-top-20);
+	}
+
+	.news-block_two-content{
+		padding: 25px 15px 25px;
+	}
+
+	.page-title {
+		padding: 80px 0px 80px;
+	}
+
+	.faq-one_accordian-column .accordian-outer{
+		padding: 15px 15px;
+	}
+
+	.category-list li a,
+	.post-widget .post h6,
+	.time-countdown_subtitle{
+		font-size: var(--font-16);
+	}
+
+	.class-block_one-date{
+		margin-top: var(--margin-top-10);
+	}
+
+	.class-block_one-heading{
+		line-height: 30px;
+		font-size: var(--font-20);
+	}
+
+	.scholar-detail_socials{
+		margin-left: var(--margin-left-10);
+	}
+
+	.event-detail_price span{
+		position: relative;
+	}
+
+	.event-detail_accordian{
+		padding: 15px 15px;
+	}
+
+	.organiser-widget{
+		padding: 25px 25px;
+	}
+
+	.service-block_two-upper{
+		padding: 0px 20px 25px;
+	}
+
+	.news-block_three-content{
+		padding: 25px 15px;
+	}
+
+	.news-block_three-heading{
+		line-height: 32px;
+		font-size: var(--font-22);
+	}
+
+	.blog-detail_content {
+		padding: 15px 15px 15px;
+	}
+
+	.blog-detail_meta{
+		margin-top: var(--margin-top-15);
+		margin-left: var(--margin-zero);
+	}
+
+	.blog-detail_heading {
+		line-height: 34px;
+		font-size: var(--font-24);
+	}
+
+	.sidebar-widget.style-two .content{
+		padding: 20px 20px;
+	}
+
+	.blog-detail blockquote{
+		padding: 20px 20px;
+		line-height: 26px;
+		font-size: var(--font-16);
+	}
+
+	.sidebar-page-container .comments-area .comment{
+		padding-left: var(--padding-zero);
+	}
+
+	.sidebar-page-container .comments-area .comment-box .author-thumb{
+		position: relative;
+	}
+
+	.course-detail_list{
+		margin-top: var(--margin-top-20);
+	}
+
+	.register-one_column .register-one_column-outer{
+		padding: 25px 25px;
+	}
+
+	.styled-form .forgot-psw{
+		margin-top: var(--margin-top-15);
+		margin-left: var(--margin-zero);
+	}
+
+	.register-one h4{
+		line-height: 38px;
+		font-size: var(--font-28);
+	}
+
+	.slider-three_text{
+		line-height: 28px;
+		font-size: var(--font-18);
+	}
+
+	.slider-three_content-inner{
+		padding-top: var(--padding-zero);
+	}
+
+}
